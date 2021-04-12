@@ -1,2 +1,2 @@
 # sample-news-app
-sample news app
+sample registration form
